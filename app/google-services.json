@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226510872157",
+    "firebase_url": "https://torkflix-d3219.firebaseio.com",
+    "project_id": "torkflix-d3219",
+    "storage_bucket": "torkflix-d3219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226510872157:android:723e0709a2b5d724",
+        "android_client_info": {
+          "package_name": "com.victorvieira.torkflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226510872157-ums8fqeo0m1rce2chamjuso5be4rsqt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.victorvieira.torkflix",
+            "certificate_hash": "fc03a3e297e77062260bcc35d224a8614aeaab4e"
+          }
+        },
+        {
+          "client_id": "226510872157-hjjrvgitp8qj4menuluhgrrj4vgn9up4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3CohU4es2mGKttCfbX7gGzGMUVL2JUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226510872157-hjjrvgitp8qj4menuluhgrrj4vgn9up4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
